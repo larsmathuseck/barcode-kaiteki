@@ -1,7 +1,4 @@
-[![Release](https://jitpack.io/v/com.kroegerama/barcode-kaiteki.svg)](https://jitpack.io/#com.kroegerama/barcode-kaiteki)
-[![Build Status](https://travis-ci.org/kroegerama/barcode-kaiteki.svg?branch=master)](https://travis-ci.org/kroegerama/barcode-kaiteki)
-
-## Barcode-Kaiteki
+## Fork of Barcode-Kaiteki
 
 <img width="200" src="art/qr-code.png">
 
